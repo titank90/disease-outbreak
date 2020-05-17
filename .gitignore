@@ -104,8 +104,10 @@ venv.bak/
 .mypy_cache/
 
 # others
+data/
 Backup/
-data/worldcities.csv
-data/test-data.txt
+environment.yml
+*.csv
+
 
 
